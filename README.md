@@ -4,6 +4,6 @@ In-situ datatasets and Product Description Documents from SusTunTech project:
 - Temperature from vessels
 - Surface currents from buoys
 
-![Funding logo](https://gitlab.azti.es/uimprogramas/sustuntech/-/blob/main/Sustuntech_funding.png)
+![Funding logo](https://www.azti.es/)
 
 
