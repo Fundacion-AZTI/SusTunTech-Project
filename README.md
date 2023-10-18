@@ -6,4 +6,4 @@ In-situ datatasets and Product Description Documents from SusTunTech project:
 
 ![Alt text](https://gitlab.azti.es/uimprogramas/sustuntech/-/blob/main/Sustuntech_funding.png)
 
-[](https://gitlab.azti.es/uimprogramas/sustuntech/-/blob/main/Sustuntech_funding.png)
+
