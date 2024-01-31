@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Solabarrieta"
+  given-names: "Lohitzune"
+  orcid: "https://orcid.org/0000-0003-4664-3637"
+- family-names: "Manso-Narvarte"
+  given-names: "Ivan"
+  orcid: "https://orcid.org/0000-0002-7700-0194"
+- family-names: "Caballero"
+  given-names: "Ainhoa"
+  orcid: "https://orcid.org/0000-0003-1004-8908"
+- family-names: "Anabitarte"
+  given-names: "Asier"
+  orcid: "https://orcid.org/0000-0003-4677-6077"
+- family-names: "Fernandes"
+  given-names: "Jose A."
+  orcid: "https://orcid.org/0000-0003-4677-6077"
+title: "In-situ files from SusTunTech Project"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.8421905
+date-released: 2024-01-31
+url: "https://github.com/Fundacion-AZTI/SusTunTech-Project/tree/main"
