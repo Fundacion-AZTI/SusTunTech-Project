@@ -1,0 +1,6 @@
+
+These datasets are also available in:
+
+- SusTunTech project ERDDAP:	https://erddap.sustuntech.eu:3030/erddap/info/index.html?page=1&itemsPerPage=1000
+
+- EMODNET ERDDAP:		https://erddap.emodnet-physics.eu/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Sustuntech
